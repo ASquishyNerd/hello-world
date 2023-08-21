@@ -3,4 +3,4 @@
 
 Hi all
 
-Squishy here im just following the github tutorial.
+Just following the github tutorial.
